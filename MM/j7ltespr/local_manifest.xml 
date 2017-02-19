@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="vendor/samsung/j7ltespr" name="minz1/android_vendor_samsung_j7ltespr" remote="github" revision="cm-13.0" />
+  <project path="kernel/samsung/j7ltespr" name="minz1/android_kernel_samsung_j7ltespr" remote="github" revision="cm-13.0" />
+  <project path="device/samsung/j7ltespr" name="minz1/android_device_samsung_j7ltespr" remote="github" revision="cm-13.0" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-13.0" />
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-13.0" />
+</manifest>
