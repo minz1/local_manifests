@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="vendor/samsung/j7ltespr" name="minz1/android_vendor_samsung_j7ltespr" remote="github" revision="cm-13.0" />
-  <project path="kernel/samsung/msm8929" name="minz1/android_kernel_samsung_msm8929" remote="github" revision="cm-13.0" />
-  <project path="device/samsung/j7ltespr" name="minz1/android_device_samsung_j7ltespr-1" remote="github" revision="cm-13.0" />
-  <project path="device/samsung/msm8929-common" name="minz1/android_device_samsung_msm8929-common-1" remote="github" revision="cm-13.0" />
+  <project path="vendor/samsung/j7ltespr" name="Galaxy-J700P/proprietary_vendor_samsung_j7ltespr" remote="github" revision="cm-13.0" />
+  <project path="kernel/samsung/msm8929" name="Galaxy-J700P/android_kernel_samsung_msm8929" remote="github" revision="cm-13.0" />
+  <project path="device/samsung/j7ltespr" name="Galaxy-J700P/android_device_samsung_j7ltespr" remote="github" revision="cm-13.0" />
   <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="cm-13.0" />
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-13.0" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-13.0" />
