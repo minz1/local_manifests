@@ -7,4 +7,5 @@
   <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-13.0" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-13.0" />
   <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-13.0" />
+  <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-13.0" />
 </manifest>
