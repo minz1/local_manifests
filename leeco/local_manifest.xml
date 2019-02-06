@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>      
+    <!-- LineageOS -->
+    <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+
+    <!-- minz1 -->
+    <project name="minz1/android_device_leeco_msm8996-common" path="device/leeco/msm8996-common" remote="github" />
+    <project name="minz1/android_device_leeco_zl1" path="device/leeco/zl1" remote="github" />
+    <project name="minz1/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="github" />
+    <project name="minz1/proprietary_vendor_leeco" path="vendor/leeco" remote="github" />
+</manifest>
