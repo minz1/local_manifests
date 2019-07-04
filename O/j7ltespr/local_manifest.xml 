@@ -30,7 +30,7 @@
   <remove-project name="platform/sdk" />
 
  <!-- Samsung MSM8916 Common Repos -->
-  <project path="device/samsung/msm8916-common" name="Galaxy-MSM8916/android_device_samsung_msm8916-common" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="device/samsung/msm8916-common" name="minz1/android_device_samsung_msm8916-common-1" groups="device" remote="github" revision="lineage-15.1"/>
   <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" groups="device" remote="github" revision="lineage-15.1"/>
 
  <!-- Samsung Hardware Repo -->
@@ -40,7 +40,7 @@
   <project path="kernel/samsung/msm8916" name="Galaxy-MSM8916/android_kernel_samsung_msm8916" remote="Galaxy-MSM8916"/>
 
  <!-- Vendor Trees (for all devices) -->
-  <project path="vendor/samsung" name="Galaxy-MSM8916/proprietary_vendor_samsung" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="vendor/samsung" name="minz1/proprietary_vendor_samsung-1" groups="device" remote="github" revision="lineage-15.1"/>
 
  <!-- Qcom audio  -->
   <remove-project name="LineageOS/android_hardware_qcom_audio"/>
@@ -58,8 +58,8 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings"/>
 
  <!-- Galaxy J7 -->
-  <project path="device/samsung/j7lte-common" name="Galaxy-MSM8916/android_device_samsung_j7lte-common" groups="device" remote="Galaxy-MSM8916"/>
-  <project path="device/samsung/j7ltespr" name="Galaxy-MSM8916/android_device_samsung_j7ltespr" groups="device" remote="Galaxy-MSM8916"/>
+  <project path="device/samsung/j7lte-common" name="minz1/android_device_samsung_j7lte-common" groups="device" remote="github" revision="lineage-15.1"/>
+  <project path="device/samsung/j7ltespr" name="minz1/android_device_samsung_j7ltespr-3" groups="device" remote="github" revision="lineage-15.1"/>
   <project path="device/samsung/j7ltechn" name="Galaxy-MSM8916/android_device_samsung_j7ltechn" groups="device" remote="Galaxy-MSM8916"/>
 
 </manifest>
